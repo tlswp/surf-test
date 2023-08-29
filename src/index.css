@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #f5f5f5;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url(fonts/Lato/Lato-Regular.ttf), local('Lato'), format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url(fonts/Lato/Lato-Italic.ttf), local('Lato'), format('ttf');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url(fonts/Lato/Lato-Hairline.ttf), local('Lato'), format('ttf');
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url(fonts/Lato/Lato-HairlineItalic.ttf), local('Lato'), format('ttf');
+  font-weight: 100;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url(fonts/Lato/Lato-Light.ttf), local('Lato'), format('ttf');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url(fonts/Lato/Lato-LightItalic.ttf), local('Lato'), format('ttf');
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url(fonts/Lato/Lato-Bold.ttf), local('Lato'), format('ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url(fonts/Lato/Lato-BoldItalic.ttf), local('Lato'), format('ttf');
+  font-weight: bold;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url(fonts/Lato/Lato-Black.ttf), local('Lato'), format('ttf');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url(fonts/Lato/Lato-BlackItalic.ttf), local('Lato'), format('ttf');
+  font-weight: 900;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url(fonts/Lato/Lato-Medium.ttf), local('Lato'), format('ttf');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url(fonts/Lato/Lato-MediumItalic.ttf), local('Lato'), format('ttf');
+  font-weight: 500;
+  font-style: italic;
+}
