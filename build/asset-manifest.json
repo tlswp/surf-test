@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a4e27414.css",
+    "main.js": "/static/js/main.32eb4283.js",
+    "static/media/Lato-Italic.ttf": "/static/media/Lato-Italic.555ca862aca4c09ec360.ttf",
+    "static/media/Lato-BoldItalic.ttf": "/static/media/Lato-BoldItalic.2224b456806c105de03b.ttf",
+    "static/media/Lato-MediumItalic.ttf": "/static/media/Lato-MediumItalic.2ab49cc6c87ffc0dd6a8.ttf",
+    "static/media/Lato-BlackItalic.ttf": "/static/media/Lato-BlackItalic.7498bc878894eb5f0c64.ttf",
+    "static/media/Lato-LightItalic.ttf": "/static/media/Lato-LightItalic.b1d12c9a29e5b6ad50c5.ttf",
+    "static/media/Lato-Bold.ttf": "/static/media/Lato-Bold.08ce961fb8a75d3079d8.ttf",
+    "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.faacec1c82ca10ed3b76.ttf",
+    "static/media/Lato-Light.ttf": "/static/media/Lato-Light.c49ed189c67776fcddec.ttf",
+    "static/media/Lato-Medium.ttf": "/static/media/Lato-Medium.b56347b7f25900c4fd4c.ttf",
+    "static/media/Lato-Black.ttf": "/static/media/Lato-Black.035028690690e18b02b2.ttf",
+    "static/media/Lato-HairlineItalic.ttf": "/static/media/Lato-HairlineItalic.4312d52dd735f46666db.ttf",
+    "static/media/Lato-Hairline.ttf": "/static/media/Lato-Hairline.e3b14e314b16a4c44575.ttf",
+    "index.html": "/index.html",
+    "main.a4e27414.css.map": "/static/css/main.a4e27414.css.map",
+    "main.32eb4283.js.map": "/static/js/main.32eb4283.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4e27414.css",
+    "static/js/main.32eb4283.js"
+  ]
+}
